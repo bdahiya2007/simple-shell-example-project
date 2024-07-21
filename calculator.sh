@@ -1,1 +1,1 @@
-add a + b
+x = a + b
